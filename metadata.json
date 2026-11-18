@@ -1,0 +1,6 @@
+{
+  "name": "AssetFlow AI",
+  "description": "AI-Assisted Smart Inventory and Asset Management System for enterprises, universities, hospitals, and organizations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
